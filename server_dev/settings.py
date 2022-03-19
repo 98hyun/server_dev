@@ -25,7 +25,7 @@ SECRET_KEY = 'd$g8k7!^_apa+=h6c2=et0*fqi=c(x2dcti+n74wsq3jg&)gk@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
